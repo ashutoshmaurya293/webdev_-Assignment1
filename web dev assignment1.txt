@@ -1,0 +1,22 @@
+Q.1 <!DOCTYPE html> is it a tag of html? If not, what is it and why do we use it?
+Answer: <!DOCTYPE html> is a element and it is represent the html5
+
+Q.2 Explain Semantic tags in html? And why do we need it?
+Answer: semantic tags is a html tag which is describe the content of web page and improve the accessibility of a web page
+
+Q.3 Differentiate between HTML Tags and Elements?
+Answer: if  we are writing a opening and closing tag that called html tag and if we will write something in the tag that called html elements
+
+Q.6 What are some of the advantages of HTML5 over its previous versions?
+Answer:  there are  many advantages in html 5 
+1.improve reliability
+2.Improve accessibility
+3.Include form tag
+
+Q.8 What is the difference between <figure> tag and <img> tag?
+Answer: The figure tag in HTML5 is used to add self-contained content like illustrations, diagrams, photos, or codes listed in a document. HTML img tag is used to add images or to set the background in the webpage
+
+Q.9 What’s the difference between html tag and attribute and give example of some global attributes?
+Answer : html tag define the structure and size of an element .and attributes is provides the information of element
+
+
